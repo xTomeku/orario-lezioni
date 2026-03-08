@@ -1,5 +1,7 @@
 {
   "version": "v1.0.1",
-  "url": "https://github.com/xTomeku/orario-lezioni/releases/latest"
-
+  "url": "https://github.com/xTomeku/orario-lezioni/releases/latest",
+  "mostra_messaggio": true,
+  "titolo_messaggio": "Avviso",
+  "testo_messaggio": "Il portale UniSalento è in manutenzione."
 }

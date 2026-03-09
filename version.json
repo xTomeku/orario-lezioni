@@ -1,7 +1,7 @@
 {
   "version": "v1.0.4",
   "url": "https://github.com/xTomeku/orario-lezioni/releases/latest",
-  "mostra_messaggio": true,
+  "mostra_messaggio": false,
   "titolo_messaggio": "Test",
   "testo_messaggio": "Ciaooo"
 }

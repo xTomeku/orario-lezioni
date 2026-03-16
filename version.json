@@ -1,7 +1,7 @@
 {
   "version": "v1.2.0",
   "url": "https://github.com/xTomeku/orario-lezioni/releases/latest",
-  "mostra_messaggio": true,
+  "mostra_messaggio": false,
   "solo_vecchi_utenti": true,
   "titolo_messaggio": "Bug Fix Web-App Offline",
   "testo_messaggio": "È stato risolto un errore nella configurazione che impediva il funzionamento della versone Web-App in modalità offline. Per far funzionare l'orario anche senza internet, elimina l'icona dell'app dalla tua schermata Home e aggiungila di nuovo dal sito. Se invece hai installato l'app Android tramite APK, ignora questo messaggio"

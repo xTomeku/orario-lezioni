@@ -2,7 +2,7 @@
 
 ​QuickCheck nasce con una missione precisa: agire come un ponte rapido e intuitivo tra lo studente e il complesso ecosistema del portale universitario. Spesso le informazioni accademiche sono distribuite su piattaforme diverse, con interfacce poco ottimizzate per l'uso mobile; QuickCheck unifica queste risorse in un unico punto di accesso immediato.
 
-​💡 L'Idea: Semplificare la Complessità
+​💡 L'Idea: Semplificare la Complessità. 
 ​L'app è stata progettata per essere il "front-end" dello studente moderno. Invece di navigare tra i numerosi menu e i caricamenti del portale ufficiale, QuickCheck interroga i database d'Ateneo al posto tuo, estraendo solo ciò che ti serve e presentandolo in un formato pulito e leggibile. È il ponte che trasforma i dati grezzi dell'università in informazioni utili per la tua giornata.
 
 ​✨ Funzionalità Principali

@@ -18,6 +18,8 @@ L'app è stata progettata per essere il **"front-end" dello studente moderno**. 
   
 * 📧 **Smart Directory Docenti**: L'app accorcia le distanze con il corpo docente. Attraverso un sistema intelligente, trova l'indirizzo email istituzionale (`@unisalento.it`) dei professori direttamente dall'orario.
   
+* 📇 Rubrica di Ateneo Integrata: Hai bisogno di contattare un ufficio, la segreteria o un docente che non è nel tuo orario? Un motore di ricerca integrato interroga l'intera rubrica ufficiale dell'Università: ti basta digitare un cognome per ottenere istantaneamente ruolo, dipartimento, email e l'indirizzo fisico esatto dell'ufficio
+  
 * 📶 **Operatività Offline**: Grazie all'integrazione con un database locale, l'app salva automaticamente l'orario e le preferenze sul dispositivo. Se la connessione è assente, l'app carica istantaneamente l'ultima versione salvata.
   
 * 📲 **Esperienza App Nativa**: Installabile come **PWA**, vive sulla tua schermata home senza la pesantezza del browser, offrendo navigazione fluida e notifiche push per gli aggiornamenti.

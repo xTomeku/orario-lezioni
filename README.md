@@ -1,4 +1,4 @@
-​#🎓 QuickCheck UniSalento
+​## 🎓 QuickCheck UniSalento
 
 ​QuickCheck nasce con una missione precisa: agire come un ponte rapido e intuitivo tra lo studente e il complesso ecosistema del portale universitario. Spesso le informazioni accademiche sono distribuite su piattaforme diverse, con interfacce poco ottimizzate per l'uso mobile; QuickCheck unifica queste risorse in un unico punto di accesso immediato.
 

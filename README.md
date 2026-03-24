@@ -16,9 +16,9 @@ L'app è stata progettata per essere il **"front-end" dello studente moderno**. 
   
 * 📅 **Agenda Settimanale Dinamica**: L'orario viene rielaborato per mostrare chiaramente materia, docente e aula. Non dovrai più decifrare tabelle complesse: **QuickCheck** ti dice dove devi essere e quando.
   
-* 📧 **Smart Directory Docenti**: L'app accorcia le distanze con il corpo docente. Attraverso un sistema intelligente, trova l'indirizzo email istituzionale (`@unisalento.it`) dei professori direttamente dall'orario.
+* 📇 **Rubrica Integrata e Contatto Rapido**: Trovare i docenti non è mai stato così veloce. L'app estrae automaticamente l'email istituzionale dei professori direttamente dal tuo orario delle lezioni. Inoltre, grazie al motore di ricerca globale integrato, puoi esplorare l'intera rubrica dell'Ateneo per scovare contatti, dipartimento e ufficio di qualsiasi altro docente.
   
-* 📇 Rubrica di Ateneo Integrata: Hai bisogno di contattare un docente che non è nel tuo orario? Un motore di ricerca integrato interroga l'intera rubrica ufficiale dell'Università: ti basta digitare un cognome per ottenere istantaneamente ruolo, dipartimento, email e l'indirizzo fisico esatto dell'ufficio
+* 📍 **Stato Aule in Real-Time e Spazi Studio**: Non sai dove si trova una lezione o cerchi un posto libero per studiare? L'app include un motore di ricerca per tutti gli edifici dell'Ateneo. Selezionando un'aula, l'app calcola in tempo reale il suo stato (es. *"Libera fino alle 11:30"*) e ti permette di consultare l'orario giornaliero completo della stanza.
   
 * 📶 **Operatività Offline**: Grazie all'integrazione con un database locale, l'app salva automaticamente l'orario e le preferenze sul dispositivo. Se la connessione è assente, l'app carica istantaneamente l'ultima versione salvata.
 

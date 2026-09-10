@@ -4516,16 +4516,27 @@
                 ]
             ],
             "piani": [
-                0
+                -1,
+                0,
+                1,
+                2
             ],
             "aule": [
                 {
                     "id": "aula_papuli",
                     "nome": "Aula Papuli",
                     "roomCode": "STD5 - 1",
-                    "piano": 0,
-                    "coordinata": null,
-                    "coordinate": [],
+                    "piano": 1,
+                    "coordinata": [
+                        18.16497,
+                        40.35919
+                    ],
+                    "coordinate": [
+                        [
+                            18.16497,
+                            40.35919
+                        ]
+                    ],
                     "stato": "Sconosciuto",
                     "lezioneAttuale": "Sconosciuta",
                     "docente": "Sconosciuto",
@@ -4581,8 +4592,16 @@
                     "nome": "Aula 1 - C1",
                     "roomCode": "STD6 - 1",
                     "piano": 0,
-                    "coordinata": null,
-                    "coordinate": [],
+                    "coordinata": [
+                        18.164759,
+                        40.359003
+                    ],
+                    "coordinate": [
+                        [
+                            18.164759,
+                            40.359003
+                        ]
+                    ],
                     "stato": "Sconosciuto",
                     "lezioneAttuale": "Sconosciuta",
                     "docente": "Sconosciuto",
@@ -4595,8 +4614,16 @@
                     "nome": "Aula 2 - B1",
                     "roomCode": "STD6 - 2",
                     "piano": 0,
-                    "coordinata": null,
-                    "coordinate": [],
+                    "coordinata": [
+                        18.164853,
+                        40.358962
+                    ],
+                    "coordinate": [
+                        [
+                            18.164853,
+                            40.358962
+                        ]
+                    ],
                     "stato": "Sconosciuto",
                     "lezioneAttuale": "Sconosciuta",
                     "docente": "Sconosciuto",
@@ -4609,8 +4636,16 @@
                     "nome": "Aula 3 - B2/B3",
                     "roomCode": "STD6 - 3",
                     "piano": 0,
-                    "coordinata": null,
-                    "coordinate": [],
+                    "coordinata": [
+                        18.164827,
+                        40.35884
+                    ],
+                    "coordinate": [
+                        [
+                            18.164827,
+                            40.35884
+                        ]
+                    ],
                     "stato": "Sconosciuto",
                     "lezioneAttuale": "Sconosciuta",
                     "docente": "Sconosciuto",
@@ -4623,8 +4658,16 @@
                     "nome": "Aula 4 - C2",
                     "roomCode": "STD6 - 4",
                     "piano": 0,
-                    "coordinata": null,
-                    "coordinate": [],
+                    "coordinata": [
+                        18.164744,
+                        40.358848
+                    ],
+                    "coordinate": [
+                        [
+                            18.164744,
+                            40.358848
+                        ]
+                    ],
                     "stato": "Sconosciuto",
                     "lezioneAttuale": "Sconosciuta",
                     "docente": "Sconosciuto",
@@ -4637,8 +4680,16 @@
                     "nome": "Aula 5 -C3",
                     "roomCode": "STD6 - 5",
                     "piano": 0,
-                    "coordinata": null,
-                    "coordinate": [],
+                    "coordinata": [
+                        18.164657,
+                        40.358859
+                    ],
+                    "coordinate": [
+                        [
+                            18.164657,
+                            40.358859
+                        ]
+                    ],
                     "stato": "Sconosciuto",
                     "lezioneAttuale": "Sconosciuta",
                     "docente": "Sconosciuto",
@@ -4651,8 +4702,16 @@
                     "nome": "Aula 6 - C4",
                     "roomCode": "STD6 - 6",
                     "piano": 0,
-                    "coordinata": null,
-                    "coordinate": [],
+                    "coordinata": [
+                        18.164547,
+                        40.358877
+                    ],
+                    "coordinate": [
+                        [
+                            18.164547,
+                            40.358877
+                        ]
+                    ],
                     "stato": "Sconosciuto",
                     "lezioneAttuale": "Sconosciuta",
                     "docente": "Sconosciuto",
@@ -4665,8 +4724,16 @@
                     "nome": "Aula 7 - A1",
                     "roomCode": "STD6 - 7",
                     "piano": 0,
-                    "coordinata": null,
-                    "coordinate": [],
+                    "coordinata": [
+                        18.164374,
+                        40.358904
+                    ],
+                    "coordinate": [
+                        [
+                            18.164374,
+                            40.358904
+                        ]
+                    ],
                     "stato": "Sconosciuto",
                     "lezioneAttuale": "Sconosciuta",
                     "docente": "Sconosciuto",
